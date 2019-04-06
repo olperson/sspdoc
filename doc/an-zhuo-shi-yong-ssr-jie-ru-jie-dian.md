@@ -10,7 +10,7 @@
 
 ![](../.gitbook/assets/tim-jie-tu-20190406150839.png)
 
-或\[点击\]\([https://caffecat.online/ssr-download/ssrr-android.apk](https://caffecat.online/ssr-download/ssrr-android.apk)\)下载
+或[\[点击\]](https://caffecat.online/ssr-download/ssrr-android.apk)下载
 
 ![](../.gitbook/assets/tim-jie-tu-20190406151112.png)
 
