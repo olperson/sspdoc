@@ -4,7 +4,7 @@
 
 ## 下载Shadowrocket
 
-1.用户中心首页过去公共美区ID 并登入苹果商店App Store，下载安装Shadowrocket。
+1.用户中心首页获取公共美区ID 并登入苹果商店App Store，下载安装Shadowrocket。
 
 ![](../.gitbook/assets/tim-jie-tu-20190406165057.png)
 
@@ -40,7 +40,7 @@
 
 ## 启动代理
 
-![](../.gitbook/assets/i6.png)
+![](../.gitbook/assets/i5.png)
 
 ## 开启自动更新订阅
 
