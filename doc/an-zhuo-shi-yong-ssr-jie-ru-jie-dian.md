@@ -20,19 +20,19 @@
 
 ## 添加\(导入\)节点信息
 
-![](../.gitbook/assets/assets_-lnbqsuqdzrov0agmo5p_-lnbp-2cypntm0-hs2jr_-lnbpsttxhdq078d2n8i_ad-2.png)
+![](https://i.loli.net/2019/04/10/5cade464937c9.png)
 
 2.点击右下角「 + 」弹出菜单，然后点击「添加/升级 SSR 订阅」。
 
-![](../.gitbook/assets/assets_-lnbqsuqdzrov0agmo5p_-lnbp-2cypntm0-hs2jr_-lnbri8bsp-yap6h9i3h_ad-3.png)
+![](https://i.loli.net/2019/04/10/5cade49344e40.png)
 
 3.点击「添加订阅地址」把刚刚复制的订阅连接粘贴进去，然后点击「确定」。
 
-![](../.gitbook/assets/assets_-lnbqsuqdzrov0agmo5p_-lnbp-2cypntm0-hs2jr_-lnbrtagrl12telwpapo_ad-4.png)
+![](https://i.loli.net/2019/04/10/5cade4ac2a3d3.png)
 
 4.点击开启自动更新，左滑删除订阅列表中的「FreeSSR-public」，然后点击「确定并升级」。
 
-![](../.gitbook/assets/assets_-lnbqsuqdzrov0agmo5p_-lnbp-2cypntm0-hs2jr_-lnbsjjnegajyy9qvuag_ad-6.png)
+![](https://i.loli.net/2019/04/10/5cade4c8a0255.png)
 
 5.更新完成后，点击选择一条想用的线路。
 
@@ -44,11 +44,11 @@
 
 1.返回到主页面，然后下滑到「功能设置」功能区，将「路由」设置为「绕过局域网和中国大陆地址」。（此为推荐设置，具体可按个人需求自行调整）
 
+![](https://i.loli.net/2019/04/10/5cade4f4cd753.png)
+
 2.点击右上角小飞机图标启动代理。（ 如果是首次连接，则系统会弹出建立网络连接提示框，请点击「确定」。）
 
-![](../.gitbook/assets/assets_-lnbqsuqdzrov0agmo5p_-lnbp-2cypntm0-hs2jr_-lnbuvtcxpvuuns4hymm_ad-8.png)
-
-![](../.gitbook/assets/assets_-lnbqsuqdzrov0agmo5p_-lnbp-2cypntm0-hs2jr_-lnbvw_5_tglgd5jvh8v_ad-9.png)
+![](https://i.loli.net/2019/04/10/5cade513bfeda.png)
 
 
 
