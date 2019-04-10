@@ -8,11 +8,11 @@
 
 1.在软件下载菜单中点击下载SSR-安卓客户端并解压。
 
-![](../.gitbook/assets/tim-jie-tu-20190406150839.png)
+![](https://i.loli.net/2019/04/10/5cade3a8341c4.png)
 
 或[\[点击\]](https://caffecat.online/ssr-download/ssrr-android.apk)下载
 
-![](../.gitbook/assets/tim-jie-tu-20190406151112.png)
+![](https://i.loli.net/2019/04/10/5cade3f05ae5d.png)
 
 {% hint style="danger" %}
 订阅地址包含节点的重要信息，请勿将订阅地址分享给他人。

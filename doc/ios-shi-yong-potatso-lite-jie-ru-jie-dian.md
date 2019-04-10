@@ -18,7 +18,7 @@
 
 1.在SSR菜单中点击复制订阅地址，稍后添加节点时需要用到。
 
-![](../.gitbook/assets/tim-jie-tu-20190406150959.png)
+![](https://i.loli.net/2019/04/10/5cade3f05ae5d.png)
 
 2.添加订阅地址
 
