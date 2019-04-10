@@ -6,7 +6,7 @@
 
 1.用户中心首页获取公共美区ID 并登入苹果商店App Store，下载安装Shadowrocket。
 
-![](../.gitbook/assets/tim-jie-tu-20190406165057.png)
+![](https://i.loli.net/2019/04/10/5cade67000c03.png)
 
 {% hint style="danger" %}
 国区没有这个APP，必须切换美区。（注意：国区有很多类似名字的盗版软件，小心下错！
@@ -24,19 +24,19 @@
 
 `第一步`
 
-![](../.gitbook/assets/i1.png)
+![](https://i.loli.net/2019/04/10/5cade6856944b.png)
 
 `第二步`
 
-![](../.gitbook/assets/i2.png)
+![](https://i.loli.net/2019/04/10/5cade6988b681.png)
 
 `第三步`
 
-![](../.gitbook/assets/i3.png)
+![](https://i.loli.net/2019/04/10/5cade6bb6b97a.png)
 
 `第四步`
 
-![](../.gitbook/assets/i4.png)
+![](https://i.loli.net/2019/04/10/5cade6ccd12ea.png)
 
 ## 启动代理
 
@@ -44,9 +44,9 @@
 
 ## 开启自动更新订阅
 
-![](../.gitbook/assets/i6%20%281%29.png)
+![](https://i.loli.net/2019/04/10/5cade6faa94e8.png)
 
-![](../.gitbook/assets/i7.png)
+![](https://i.loli.net/2019/04/10/5cade711922d8.png)
 
 {% hint style="success" %}
 现在您可以享受咖啡猫加速网络体验。
