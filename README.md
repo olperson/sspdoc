@@ -8,7 +8,5 @@
 
 {% page-ref page="doc/" %}
 
-!\[Markdown logo\]\[1\]
-
-\[1\]: [http://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.png](http://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/208px-Markdown-mark.svg.png) "Markdown logo"
+![](https://s3.amazonaws.com/images.seroundtable.com/google-g-groupon-g-1441368832.gif)
 
