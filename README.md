@@ -8,10 +8,6 @@
 
 
 
-| 背景色是：orange |
-| :--- |
-
-
 {% page-ref page="docs/" %}
 
 ![](https://i.loli.net/2019/04/10/5cade2b460551.jpg)
