@@ -8,7 +8,7 @@
   * [MacOS使用ShadowsocksX-NG-R8接入节点](docs/macos-shi-yong-shadowsocksxngr8-jie-ru-jie-dian.md)
 * [V2ray使用教程](v2/README.md)
   * [windows使用V2rayNG接入节点](v2/v2win.md)
-  * [Untitled](v2/untitled.md)
+  * [安卓使用V2rayNG接入节点](v2/untitled.md)
 * [常见问题](issues.md)
 * [审计规则](shen-ji-gui-ze.md)
 
